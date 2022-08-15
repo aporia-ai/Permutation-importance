@@ -10,7 +10,7 @@ Our audience will consist of:
 - Domain experts and decision makers
 
 The current version of our repository contains code for:
-- Permutation Importance (PI): A very simple explainability technique used to obtain the importance of features based on their impact on a trained ML model’s prediction.
+- Permutation Importance (PI): A very simple explainability technique used to obtain the importance of features based on their impact on a trained ML model’s prediction. In the directory for PI, we have demonstrated the use of PI in classification and regression to understand the importance of features.
 
 
 ## This repository and README file will be updated as new explainability techniques are implemented
